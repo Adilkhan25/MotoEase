@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--TODO (Step 4: Replace the ConstraintLayout with LinearLayout and design the remaining file as per requirement.)-->
+<!--START-->
+<!--
+1. Add the background image in the respective drawable folders.
+2. Added the dimen value for the text size in the dimens.xml file.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/button_color"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".activities.SplashScreenIntro">
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/iv_place_image"
+        android:layout_width="@dimen/logo_image_size"
+        android:layout_height="@dimen/logo_image_size"
+        android:scaleType="centerCrop"
+        android:src="@drawable/motoease_logo"
+        />
+</LinearLayout>
+    <!--END-->

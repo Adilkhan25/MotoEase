@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274378196173",
+    "project_id": "motoease-82d6a",
+    "storage_bucket": "motoease-82d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274378196173:android:2ed332804bf3993c3e9584",
+        "android_client_info": {
+          "package_name": "com.adilkhan.motoease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEwmjy0MqUyKOM6hfuEEoJeUQ_VfCZb3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

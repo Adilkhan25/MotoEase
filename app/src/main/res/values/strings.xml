@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">MOTOEASE</string>
+    <!--TODO (Step 6: Add all the string values here.)-->
+    <!--START-->
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Let\'s Get started</string>
+    <string name="intro_text_description">Make your journey special with motoease, explore world with us.</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <!--END-->
+    <!--END-->
+    <string name="sign_up_description_text">Enter your name, email id and password, to register with us.</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+    <!--TODO (Step 4: Add all the string values here.)-->
+    <!--START-->
+    <string name="sign_in_description_text">Enter your email id and password, to explore the world with us.</string>
+    <!--END-->
+    <!--TODO (Step 6: Add all the string values here.)-->
+    <string name="please_click_back_again_to_exit">Please click back again to exit.</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+    !--TODO (Step 9: All the string values are added here.)-->
+    <!--START-->
+    <string name="nav_my_profile">My Profile</string>
+    <string name="nav_sign_out">Sign Out</string>
+    <!--END-->
+    <!-- My Profile activity-->
+    <string name="mobile">Mobile</string>
+    <string name="update">UPDATE</string>
+    <string name="my_profile">My Profile</string>
+
+
+    <!--Menu-->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_booking">My booking</string>
+    <string name="languages">Languages</string>
+    <string name="app_setting">App setting</string>
+    <string name="terms_and_condition">Terms and condition</string>
+    <string name="customer_support">Customer support</string>
+    <string name="rate_us">Rate us</string>
+    <string name="user_location"> Mananthavadi Rd, Vidyaranyapura, Mysuru, Karnataka 570008</string>
+    <!--App UI-->
+    <string name="no_vehicles_available">No vehicles Available near your current location</string>
+    <string name="vehicleimage">vehicleImage</string>
+    <string name="all">ALL</string>
+    <string name="car">CARS</string>
+    <string name="bike">BIKES</string>
+    <string name="book_now">Book Now</string>
+    <string name="renter">Renter</string>
+    <string name="specs">Specs</string>
+    <string name="features">Features</string>
+    <string name="music">Music</string>
+    <string name="air_condition">Air condtion</string>
+    <string name="motor">Motor</string>
+    <string name="top_speed">Top speed</string>
+    <string name="max_power">Max power</string>
+    <string name="seater">seater</string>
+    <string name="gps">gps</string>
+    <string name="back_camera_available">Back camera available</string>
+    <string name="petrol">Petrol</string>
+    <string name="more_images">More Images</string>
+    <string name="vehicle_description">Description</string>
+    <string name="per_day">/day</string>
+
+    <string name="description_ipsum">"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. "</string>
+    <string name="confirm_booking">Confirm booking</string>
+    <string name="enter_license_number">Enter license number</string>
+    <string name="enter_gov_id_number">Enter valid gov id number</string>
+    <string name="pick_up_date">Choose Pick up date</string>
+    <string name="return_date">Choose return date</string>
+    <string name="per_day_car_rent">Per day car rent</string>
+    <string name="price">₹2000</string>
+    <string name="total_payment">Total payment</string>
+    <string name="rupees">₹</string>
+    <string name="proceed_to_payment">Proceed to pay now</string>
+    <string name="go_and_book_ur_favourite_car">Go and book ur favourite car</string>
+    <string name="Cancel">Cancel</string>
+    <string name="renter_details">Renter details</string>
+    <string name="Renter_name"> Renter name: </string>
+    <string name="renter_contact_number">Contact No. </string>
+    <string name="vehicle_number">Vehicle No. </string>
+    <string name="vehicle_details">Vehicle Details </string>
+    <string name="do_you_want_to_cancel_n_please_read_cancellation_policy">Do you want to cancel?\nplease read cancellation policy.</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="cancellation_policy">Cancellation policy</string>
+    <string name="total_amount">"Total amount: "</string>
+    <string name="convenience_fees">"Convenience fees: "</string>
+    <string name="convenience_fee">₹150</string>
+    <string name="refund_amount">"Refund amount: "</string>
+    <string name="cancel_msg">"You have successfully cancel your order\nyour refund will settle in 2–3 working days"</string>
+    <string name="forget_password">Forget password?/Reset password</string>
+    <string name="enter_email">Please enter your email</string>
+    <string name="reset">Reset</string>
+
+
+</resources>

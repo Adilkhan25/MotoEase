@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_edit_profile"
+            android:icon="@drawable/ic_nav_user"
+            android:title="@string/edit_profile" />
+        <item
+            android:id="@+id/nav_my_booking"
+            android:icon="@drawable/ic_nav_book"
+            android:title="@string/my_booking" />
+        <item
+            android:id="@+id/nav_languages"
+            android:icon="@drawable/ic_nav_language_24"
+            android:title="@string/languages" />
+        <item
+            android:id="@+id/nav_app_setting"
+            android:icon="@drawable/ic_nav_settings_24"
+            android:title="@string/app_setting" />
+        <item
+            android:id="@+id/nav_terms_and_condition"
+            android:icon="@drawable/ic_nav_terms_and_condition"
+            android:title="@string/terms_and_condition" />
+        <item
+            android:id="@+id/nav_customer_support"
+            android:icon="@drawable/ic_nav_customer_support"
+            android:title="@string/customer_support" />
+        <item
+            android:id="@+id/nav_rate_us"
+            android:icon="@drawable/ic_nav_rate_us"
+            android:title="@string/rate_us" />
+
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@drawable/ic_nav_sign_out_24"
+            android:title="@string/nav_sign_out" />
+    </group>
+</menu>
